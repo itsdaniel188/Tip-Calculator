@@ -1,6 +1,6 @@
  Tip-Calculator
  
-How to create a tipping calculator using Python
+How to create a tipping calculator using Python<br>
 
 If the bill was $150.00, split between 5 people, with 12% tip. 
 
