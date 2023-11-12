@@ -10,5 +10,5 @@ Format the result to 2 decimal places = 33.60
 
 Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
-<a href="[url](https://replit.com/@danieltheo00/Tip-Calculator#main.py)https://replit.com/@danieltheo00/Tip-Calculator#main.py">Main code</a>
+<a href="https://replit.com/@danieltheo00/Tip-Calculator#main.py">Main code</a>
 
